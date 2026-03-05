@@ -17,3 +17,5 @@ Thumbs.db
 docs/
 scripts/
 *.md.bak
+README.old.md
+README.md.backup
